@@ -23,5 +23,7 @@ shoot.last
 end
 
 def using_size(array)
+sizing = [1,2,3,4,5,7]
+sizing.size
 
 end
