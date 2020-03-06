@@ -19,7 +19,7 @@ end
 
 def using_last(array)
 shoot = ["last","arrays!"]
-shoot.end
+shoot.last
 end
 
 def using_size(array)
