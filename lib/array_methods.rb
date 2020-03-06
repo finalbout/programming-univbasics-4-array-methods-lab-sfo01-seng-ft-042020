@@ -13,7 +13,7 @@ aim.reverse
 end
 
 def using_first(array)
-shot = ["okay","james","jessie"]
+shot = ["wow","james","jessie"]
 shot.first
 end
 
